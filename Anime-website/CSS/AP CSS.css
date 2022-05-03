@@ -1,0 +1,140 @@
+/*PAGE 1 CSS CODE*/
+/*For my heading and main body of writing I wanted the colour scheme of my website to give the essence of anime but also be appealing to mature audiences so I decided to go for white text on a black background to be more bold*/
+/*I also wanted some of the font to differ from the rest so made the Culture of Anime h1 a fantasy font to give a little kick to the webpage and look more aesthetically pleasing*/
+/*I changed the font size and centralised the text so that the header, subheaders and paragraphs would all be center screen and portray the information with increased clarity*/
+
+.Header {
+  color: white;
+  font-family: fantasy;
+  font-size: 75px;
+  text-align: center;
+}
+
+.PageLink {
+  color: white;
+}
+
+.Subheader {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+.Paragraph {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+.PNumber {
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+/*PAGE 2 CSS CODE*/
+
+.Header2 {
+  color: white;
+  font-size: 75px;
+  font-family: fantasy;
+  text-align: center;
+}
+
+.CoverArt2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.Subheader2 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+.Paragraph2 {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+/*PAGE 3 CSS CODE*/
+
+.Header3 {
+  color: white;
+  font-size: 75px;
+  font-family: fantasy;
+  text-align: center;
+}
+
+.CoverArt3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.Subheader3 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+.Paragraph3 {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+/*Wanted to include a quote so I added a portrait picture to add smaller than usual text just underneath it,
+ended up not using a quote but kept the size as I instead used descriptors for the image so thought that was an appropriate sized font*/
+
+.CovertArt31 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+.Paragraph31 {
+  color: white;
+  font-size: 20px;
+  font-family: inherit;
+  text-align: center;
+}
+
+/*PAGE 4 CSS CODE*/
+
+.Header4 {
+  color: white;
+  font-size: 75px;
+  font-family: fantasy;
+  text-align: center;
+}
+.ConventionVideo {
+  color: white;
+}
+
+.Subheader4 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+.YouTubeVid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+
+.Paragraph4 {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
